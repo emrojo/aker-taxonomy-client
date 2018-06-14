@@ -1,4 +1,8 @@
-# Aker::Taxonomy::Client
+# Aker - Taxonomy client gem
+
+[![Build Status](https://travis-ci.org/sanger/aker-taxonomy-client-gem.svg?branch=master)](https://travis-ci.org/sanger/aker-taxonomy-client-gem)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c6320c233ae926595cd4/maintainability)](https://codeclimate.com/github/sanger/aker-taxonomy-client-gem/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c6320c233ae926595cd4/test_coverage)](https://codeclimate.com/github/sanger/aker-taxonomy-client-gem/test_coverage)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/aker/taxonomy/client`. To experiment with that code, run `bin/console` for an interactive prompt.
 
